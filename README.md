@@ -112,7 +112,7 @@ This project is licensed under the terms of the MIT License.
 
 Your Name
 
-- GitHub: https://github.com/your-username
+- GitHub:https://github.com/manikalasaikeerthi149-cell
 
 ---
 
