@@ -49,13 +49,13 @@ A modern, responsive Weather Application that fetches real-time weather data usi
 Follow these steps to run the project locally:
 
 # Clone the repository
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/manikalasaikeerthi149-cell/weather-app
 
 # Navigate to project folder
 cd weather-app
 
 # Open index.html in your browser
-
+file:///C:/Users/manik/OneDrive/Desktop/bootstrap/index.html
 ---
 
 🔑 API Setup
