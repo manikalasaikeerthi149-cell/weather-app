@@ -6,12 +6,13 @@ A modern, responsive Weather Application that fetches real-time weather data usi
 
 🚀 Live Demo
 
-👉 Add your deployed link here (e.g., GitHub Pages / Netlify / Vercel)
+👉 
 
 ---
 
 📸 Screenshot
 
+<img width="1920" height="1080" alt="weather -app png" src="https://github.com/user-attachments/assets/da115fae-579b-4887-b5d3-1b6f3c155125" />
 
 ---
 
@@ -63,7 +64,7 @@ cd weather-app
 2. Generate your API key
 3. Replace the API key in your JavaScript file:
 
-const apiKey = "YOUR_API_KEY_HERE";
+const apiKey = "c554b5f842653a91935c3e459d7eb1e9";
 
 ---
 
